@@ -1,6 +1,6 @@
 # Reviews
 
-The purpose of the project is to provide reviews using plain JavaScript without using frameworks.
+The purpose of the project is to provide reviews using plain JavaScript without using frameworks.  The reviews are taken from some of the people who have liked my post on getting a Diploma in Software Development (August 2019).
 
 ## UX
 
@@ -37,3 +37,8 @@ Ensure user stories have been met.
 ### Acknowledgements
 
 [FreeCodeCamp](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=1825s)
+
+[LinkedIn](https://www.linkedin.com)
+
+[Cindy Marchena](https://www.linkedin.com/in/cindymarchena)
+[Stuart Crang](https://uk.linkedin.com/in/stuart-crang-50401897)
