@@ -28,17 +28,30 @@ Uses HTML5, CSS3, JavaScript, Google Fonts and Font Awesome 5.15.2.
 
 Ensure user stories have been met.
 
+## Deployment
 
+Deployed on [GitHub Pages](https://derektypist.github.io/reviews) at the main branch.
 
 ## Credits
 
 ### Content
 
+The contents in the text field were taken from the About or Porfolio sections of their LinkedIn Profiles.  Accessed 20 April 2021.
+
+Styles in style.css taken from John Smilga.  Accessed 20 April 2021. 
+
+### Media
+
+Used snipping tool (Windows 10) to get the images of people in their LinkedIn profiles of Cindy Marchena, Stuart Crang, Jon McKennon and Irina Nita.
+
 ### Acknowledgements
 
 [FreeCodeCamp](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=1825s)
+[John Smilga](https://github.com/john-smilga/javascript-basic-projects)
 
 [LinkedIn](https://www.linkedin.com)
 
 [Cindy Marchena](https://www.linkedin.com/in/cindymarchena)
 [Stuart Crang](https://uk.linkedin.com/in/stuart-crang-50401897)
+[Jon McKennon](https://uk.linkedin.com/in/jon-mckennon-1511a719)
+[Irina Nita](https://www.linkedin.com/in/irina-nita)
