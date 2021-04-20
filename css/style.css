@@ -61,3 +61,46 @@ main {
     position: relative;
 }
 
+#author {
+    margin-bottom: 0.25rem;
+}
+
+#job {
+    margin-bottom: 0.5rem;
+    color: hsl(205, 78%, 60%);
+    font-size: 0.85rem;
+}
+
+#info {
+    margin-bottom: 0.75rem;
+}
+
+.prev-btn, .next-btn {
+    color: hsl(205, 90%, 76%);
+    font-size: 1.25rem;
+    background: transparent;
+    border-color: transparent;
+    margin: 0 0.5rem;
+    cursor: pointer;
+}
+
+.prev-btn:hover, .next-btn:hover {
+    color: hsl(205, 78%, 60%);
+}
+
+.random-btn {
+    margin-top: 0.5rem;
+    background: hsl(205,100%,96%);
+    color: hsl(205, 78%, 60%);
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    border-color: hsl(205, 78%, 60%);
+    font-family: inherit;
+    cursor: pointer;
+}
+
+.random-btn:hover {
+    background: hsl(205, 78%, 60%);
+    color: hsl(205, 86%, 17%);
+}
+
