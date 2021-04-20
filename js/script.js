@@ -14,7 +14,7 @@ const reviews = [
         name: "Stuart Crang",
         job: "IT Career Consultant",
         img: "images/stuart-crang.PNG",
-        txt: "Well done"
+        text: "Well done"
     },
 
     {
@@ -22,7 +22,7 @@ const reviews = [
         name: "Cindy Marchena",
         job: "Junior Developer",
         img: "images/cindy-marchena.PNG",
-        txt: "Congratulations"
+        text: "Congratulations"
 
     }, 
 
@@ -31,7 +31,7 @@ const reviews = [
         name: "Jon McKennon",
         job: "Corporate Resource Director",
         img: "images/jon-mckennon.PNG",
-        txt: "Congratulations"
+        text: "Congratulations"
 
     }
 ];
@@ -47,3 +47,12 @@ const randomBtn = document.querySelector(".random-btn");
 
 // Set Starting Item
 let currentItem = 0;
+
+// Load Initial Item
+window.addEventListener("DOMContentLoaded",function() {
+    const item = reviews[currentItem];
+    img.src = item.img;
+    author.textContent = item.name;
+    job.textContent = item.job;
+    info.textContent = item.text;
+});
