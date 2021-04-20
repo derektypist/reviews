@@ -24,5 +24,15 @@ const reviews = [
         img: "images/cindy-marchena.PNG",
         txt: "Congratulations"
 
+    }, 
+
+    {
+        id: 4,
+        name: "Jon McKennon",
+        job: "Corporate Resource Director",
+        img: "images/jon-mckennon.PNG",
+        txt: "Congratulations"
+
     }
-]
+];
+
