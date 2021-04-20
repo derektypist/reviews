@@ -56,3 +56,33 @@ window.addEventListener("DOMContentLoaded",function() {
     job.textContent = item.job;
     info.textContent = item.text;
 });
+
+// Show Person Based on Item
+function showPerson(person) {
+    const item = reviews.person;
+    img.src = item.img;
+    author.textContent = item.name;
+    job.textContent = item.job;
+    info.textContent = item.text;
+}
+
+// Show Next Person
+nextBtn.addEventListener("click", function() {
+    currentItem++;
+    // If Already At Last Person, Go To First Person
+    if (currentItem > reviews.length - 1) {
+        currentItem = 0;
+    }
+    showPerson(currentItem);
+
+});
+
+// Show Previous Person
+prevBtn.addEventListener("click", function () {
+    currentItem--;
+    // If Already At First Person, Go To Last Person
+    if (currentItem < 0) {
+        currentItem = reviews.length - 1;
+    }
+    showPerson(currentItem);
+});
