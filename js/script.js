@@ -6,7 +6,7 @@ const reviews = [
         name: "Irina Nita",
         job: "Junior Software Developer",
         img: "images/irina-nita.PNG",
-        text: "Well done"
+        text: "I have recently graduated from a Coding Bootcamp in Full Stack Web Development and I'm currently working as Web Implmentation Specialist."
     }, 
 
     {
@@ -14,7 +14,7 @@ const reviews = [
         name: "Stuart Crang",
         job: "IT Career Consultant",
         img: "images/stuart-crang.PNG",
-        text: "Well done"
+        text: "I currently work as a consultant in the Learning People, an online educational provider. This builds on a background in education throughout my career; I have worked in coaching and teaching roles at the state level, abroad and privately, in English, IT, Media Studies, Creative Arts, Film and Spanish."
     },
 
     {
@@ -22,8 +22,7 @@ const reviews = [
         name: "Cindy Marchena",
         job: "Junior Developer",
         img: "images/cindy-marchena.PNG",
-        text: "Congratulations"
-
+        text: "I know that I don't know everything, but I'm eager to learn new things. And help others when I can.  I am a motivated, goal oriented and hard working chemist. Always taking a challange head on."
     }, 
 
     {
@@ -31,7 +30,7 @@ const reviews = [
         name: "Jon McKennon",
         job: "Corporate Resource Director",
         img: "images/jon-mckennon.PNG",
-        text: "Congratulations"
+        text: "A senior executive whose approach reflects and benefits from a tactical and strategic IT background with a proven track record to succeed and deliver above expectation, both commercially and operationally."
 
     }
 ];
